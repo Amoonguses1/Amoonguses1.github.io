@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>amoonguses1`s blog</title><link>https://example.org/</link><description>Recent content on amoonguses1`s blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Skills</title><link>https://example.org/skills/</link><pubDate>Sat, 11 May 2024 15:50:44 +0900</pubDate><guid>https://example.org/skills/</guid><description>Programming Languages Proficient in: Python, JavaScript, TypeScript
+Familiar with: C, Go, Java
+Experience with: verilog, swift
+Tech Framework: JavaScript:
+Next.js react-native Expo Go swift:
+XCTest DB/Storage: MongoDB SQLite Server side technology: Node.js Nats Streaming Kubernetes Microservices Package/Library npm package BullJS Redis Others Stripe</description></item></channel></rss>
