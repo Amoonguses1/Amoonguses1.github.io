@@ -2,3 +2,15 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'amoonguses1`s blog'
 theme = "ananke"
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "skills"
+    name = "Skills"
+    url = "/skills/"
+    weight = 2
