@@ -7,6 +7,8 @@ on:
 
 jobs:
   deploy:
+    permissions:
+      contents: write # コンテンツへの書き込み権限を追加する
     runs-on: ubuntu-22.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
